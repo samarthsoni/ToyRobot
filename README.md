@@ -8,7 +8,7 @@ Run following commands from /ToyRobot directory in your repo
 `dotnet build`
 
 # Run on local
-`cd .\ToyRobot\ToyRobot\bin\Debug\net6.0`
+`cd <path_to_repo>ToyRobot\ToyRobot.Lib\obj\Debug\net6.0`
 
 `dotnet ToyRobot.dll`
 
